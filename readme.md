@@ -20,7 +20,9 @@ The first thing to do is upload the files one by one from the folder toTipRanks 
 1. Go to the website, using the private web browser: https://www.tipranks.com/smart-portfolio/
 2. You need to upload each file from toTipRanks 
 
-![home](https://github.com/rgutmen/portfolioTR/blob/master/resources/1.png)
+<p align="center">
+  <img src="https://github.com/rgutmen/portfolioTR/blob/master/resources/1.png" />
+</p>
 
 3. Once the website has loaded all the tickers, press the 'detailed' button.
 

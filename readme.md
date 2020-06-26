@@ -19,13 +19,13 @@ The first thing to do is upload the files one by one from the folder toTipRanks 
 
 1. Go to the website, using the private web browser: https://www.tipranks.com/smart-portfolio/
 2. You need to upload each file from toTipRanks 
-![home](resources\1.png)
+![home](https://github.com/rgutmen/portfolioTR/blob/master/resources/1.png)
 3. Once the website has loaded all the tickers, press the 'detailed' button.
-![detailed](resources\2.png)
+![detailed](https://github.com/rgutmen/portfolioTR/blob/master/resources/2.png)
 4. On the bottom of the website press the option 'Add Metrics to Chart'
-![metricsToChart](resources\3.png)
+![metricsToChart](https://github.com/rgutmen/portfolioTR/blob/master/resources/3.png)
 5. Mark the checkbox as they are in the image.
-![makrs](resources\4.png)
+![makrs](https://github.com/rgutmen/portfolioTR/blob/master/resources/4.png)
 6. Once it has finish, is time to download the file on the folder: FromTipRanks
 7. Repeat the process for each file (This is the tedious part :S ).
 8. Execute the program and wait! It will take 5-10 min.

@@ -23,6 +23,7 @@ The first thing to do is upload the files one by one from the folder toTipRanks 
 3. Once the website has loaded all the tickers, press the 'detailed' button.
 ![detailed](https://github.com/rgutmen/portfolioTR/blob/master/resources/2.png)
 4. On the bottom of the website press the option 'Add Metrics to Chart'
+
 ![metricsToChart](https://github.com/rgutmen/portfolioTR/blob/master/resources/3.png)
 5. Mark the checkbox as they are in the image.
 ![makrs](https://github.com/rgutmen/portfolioTR/blob/master/resources/4.png)

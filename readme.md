@@ -18,21 +18,26 @@ Notes: The program generate two log files:
 The first thing to do is upload the files one by one from the folder toTipRanks with the following procedure:
 
 1. Go to the website, using the private web browser: https://www.tipranks.com/smart-portfolio/
-2. You need to upload each file from toTipRanks 
 
+2. You need to upload each file from toTipRanks 
 <p align="center">
   <img src="https://github.com/rgutmen/portfolioTR/blob/master/resources/1.png" />
 </p>
 
 3. Once the website has loaded all the tickers, press the 'detailed' button.
-
-![detailed](https://github.com/rgutmen/portfolioTR/blob/master/resources/2.png)
+<p align="center">
+  <img src="https://github.com/rgutmen/portfolioTR/blob/master/resources/2.png" />
+</p>
 
 4. On the bottom of the website press the option 'Add Metrics to Chart'
-![metricsToChart](https://github.com/rgutmen/portfolioTR/blob/master/resources/3.png)
+<p align="center">
+  <img src="https://github.com/rgutmen/portfolioTR/blob/master/resources/3.png" />
+</p>
 
 5. Mark the checkbox as they are in the image.
-![makrs](https://github.com/rgutmen/portfolioTR/blob/master/resources/4.png)
+<p align="center">
+  <img src="https://github.com/rgutmen/portfolioTR/blob/master/resources/4.png" />
+</p>
 
 6. Once it has finish, is time to download the file on the folder: FromTipRanks
 7. Repeat the process for each file (This is the tedious part :S ).

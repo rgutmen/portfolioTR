@@ -67,9 +67,9 @@ The program is splited in 7 main functions each of them save the data into files
 I have learn about:
 * Pandas.
 * Numpy.
-* Webscrapping.
+* Web scraping.
 * Trading.
 
 ## Improvements
-* Research on webscrapying in order to upload the files to TipRanks and get them all automatically.
+* Research on web scraping in order to upload the files to TipRanks and get them all automatically.
 * Research on trading in order to make a different strategy. 

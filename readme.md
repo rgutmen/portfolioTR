@@ -6,7 +6,7 @@ Based on the idea of buying and selling two different stocks simultaneously from
 Notes: The program generate two log files:
 * app.log: Store all the events from the processing data side, and main error when is downloading data from internet.
 * appDownloads.log: Store all the event from internet side, errors and minors events also.
-## Requrements
+## Requirements
     pip install pandas
     pip install numpy
     pip install beautifulsoup4
